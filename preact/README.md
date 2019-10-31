@@ -1,3 +1,5 @@
+![Preact Logo](../.github/images/preact.svg)
+
 # Preact Example
 
 This directory is a brief example of a [Preact](https://preactjs.com/) app that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own Preact project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/preact)
 
-*Live Example: https://preact.now-examples.now.sh*
+_Live Example: https://preact.now-examples.now.sh_
 
 ### How We Created This Example
 

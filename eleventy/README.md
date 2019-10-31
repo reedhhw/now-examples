@@ -1,3 +1,5 @@
+![Eleventy Logo](../.github/images/eleventy.svg)
+
 # Eleventy Example
 
 This directory is a brief example of a [Eleventy](https://www.11ty.io/) site that can be deployed with ZEIT Now and zero configuration.

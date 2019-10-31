@@ -1,3 +1,5 @@
+![Ember Logo](../.github/images/ember.svg)
+
 # Ember Example
 
 This directory is a brief example of an [Ember](https://emberjs.com/) app that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own Ember project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/ember)
 
-*Live Example: https://ember.now-examples.now.sh*
+_Live Example: https://ember.now-examples.now.sh_
 
 ### How We Created This Example
 

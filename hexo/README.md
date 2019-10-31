@@ -1,3 +1,5 @@
+![Hexo Logo](../.github/images/hexo.svg)
+
 # Hexo Example
 
 This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own Hexo project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/hexo)
 
-*Live Example: https://hexo.now-examples.now.sh*
+_Live Example: https://hexo.now-examples.now.sh_
 
 ### How We Created This Example
 

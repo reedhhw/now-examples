@@ -10,7 +10,7 @@ Deploy your own Next.js project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/nextjs)
 
-*Live Example: https://nextjs.now-examples.now.sh*
+_Live Example: https://nextjs.now-examples.now.sh_
 
 ### How We Created This Example
 

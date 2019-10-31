@@ -1,3 +1,5 @@
+![React Logo](../.github/images/react.svg)
+
 # React Example
 
 This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://zeit.co/docs/v2/serverless-functions/introduction) that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own React project, along with Serverless Functions, with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/create-react-app-functions)
 
-*Live Example: https://create-react-app-functions.now-examples.now.sh/*
+_Live Example: https://create-react-app-functions.now-examples.now.sh/_
 
 ### How We Created This Example
 

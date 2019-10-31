@@ -1,3 +1,5 @@
+![Svelte Logo](../.github/images/svelte.svg)
+
 # Svelte Example
 
 This directory is a brief example of a [Svelte](https://svelte.dev/) app that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own Svelte project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/svelte)
 
-*Live Example: https://svelte.now-examples.now.sh*
+_Live Example: https://svelte.now-examples.now.sh_
 
 ### How We Created This Example
 

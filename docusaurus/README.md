@@ -1,3 +1,5 @@
+![Docusaurus Logo](../.github/images/docusaurus.svg)
+
 # Docusaurus Example
 
 This directory is a brief example of a [Docusaurus](https://docusaurus.io/) site that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own Docusaurus project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/docusaurus)
 
-*Live Example: https://docusaurus.now-examples.now.sh*
+_Live Example: https://docusaurus.now-examples.now.sh_
 
 ### How We Created This Example
 

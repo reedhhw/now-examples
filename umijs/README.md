@@ -1,3 +1,5 @@
+![UmiJS Logo](../.github/images/umi.svg)
+
 # UmiJS Example
 
 This directory is a brief example of a [UmiJS](https://umijs.org/) app that can be deployed with ZEIT Now and zero configuration.
@@ -8,7 +10,7 @@ Deploy your own UmiJS project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/umijs)
 
-*Live Example: https://umijs.now-examples.now.sh*
+_Live Example: https://umijs.now-examples.now.sh_
 
 ### How We Created This Example
 

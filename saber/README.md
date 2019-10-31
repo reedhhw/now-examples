@@ -1,3 +1,5 @@
+![Saber Logo](../.github/images/saber.svg)
+
 # Saber Example
 
 This directory is a brief example of a [Saber](https://saber.land) site that can be deployed to ZEIT Now with zero configuration.
@@ -8,7 +10,7 @@ Deploy your own Saber project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/saber)
 
-*Live Example: https://saber.now-examples.now.sh*
+_Live Example: https://saber.now-examples.now.sh_
 
 ### How We Created This Example
 
