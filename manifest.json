@@ -3,13 +3,15 @@
     "example": "Next.js",
     "path": "/nextjs",
     "demo": "https://nextjs.now-examples.now.sh",
-    "description": "A Next.js app, backed by serverless functions."
+    "description": "A Next.js app, backed by serverless functions.",
+    "icon": "/.github/images/next.svg"
   },
   {
     "example": "Gatsby",
     "path": "/gatsby-functions",
     "demo": "https://gatsby-functions.now-examples.now.sh",
-    "description": "A Gatsby app, using the default starter theme, backed by serverless functions."
+    "description": "A Gatsby app, using the default starter theme, backed by serverless functions.",
+    "icon": "/.github/images/gatsby.svg"
   },
   {
     "example": "Nuxt.js",
@@ -21,25 +23,29 @@
     "example": "Create-React-App",
     "path": "/create-react-app-functions",
     "demo": "https://react-functions.now-examples.now.sh",
-    "description": "A React app, bootstrapped with create-react-app, backed by serverless functions."
+    "description": "A React app, bootstrapped with create-react-app, backed by serverless functions.",
+    "icon": "/.github/images/react.svg"
   },
   {
     "example": "Svelte",
     "path": "/svelte-functions",
     "demo": "https://svelte-functions.now-examples.now.sh",
-    "description": "A Svelte app, using the Svelte template, backed by serverless functions."
+    "description": "A Svelte app, using the Svelte template, backed by serverless functions.",
+    "icon": "/.github/images/svelte.svg"
   },
   {
     "example": "Vue.js",
     "path": "/vue",
     "demo": "https://vue.now-examples.now.sh",
-    "description": "A Vue.js app, created with the Vue CLI."
+    "description": "A Vue.js app, created with the Vue CLI.",
+    "icon": "/.github/images/vue.svg"
   },
   {
     "example": "Angular",
     "path": "/angular",
     "demo": "https://angular.now-examples.now.sh",
-    "description": "An Angular app, created with the Angular CLI."
+    "description": "An Angular app, created with the Angular CLI.",
+    "icon": "/.github/images/angular.svg"
   },
   {
     "example": "Hugo",
@@ -57,7 +63,8 @@
     "example": "UmiJS",
     "path": "/umijs",
     "demo": "https://umijs.now-examples.now.sh",
-    "description": "An UmiJS app, created using the Umi CLI."
+    "description": "An UmiJS app, created using the Umi CLI.",
+    "icon": "/.github/images/umi.svg"
   },
   {
     "example": "Vanilla",
@@ -75,7 +82,8 @@
     "example": "Preact",
     "path": "/preact",
     "demo": "https://preact.now-examples.now.sh",
-    "description": "A Preact app, created with the Preact CLI."
+    "description": "A Preact app, created with the Preact CLI.",
+    "icon": "/.github/images/preact.svg"
   },
   {
     "example": "Docz",
@@ -93,7 +101,8 @@
     "example": "Gridsome",
     "path": "/gridsome",
     "demo": "https://gridsome.now-examples.now.sh",
-    "description": "A Gridsome app, created with the Gridsome CLI."
+    "description": "A Gridsome app, created with the Gridsome CLI.",
+    "icon": "/.github/images/gridsome.svg"
   },
   {
     "example": "Aurelia",
@@ -105,13 +114,15 @@
     "example": "Ember",
     "path": "/ember",
     "demo": "https://ember.now-examples.now.sh",
-    "description": "An Ember app, created with the Ember CLI."
+    "description": "An Ember app, created with the Ember CLI.",
+    "icon": "/.github/images/ember.svg"
   },
   {
     "example": "Docusaurus",
     "path": "/docusaurus",
     "demo": "https://docusaurus.now-examples.now.sh",
-    "description": "A static Docusaurus site that makes it easy to maintain OSS documentation."
+    "description": "A static Docusaurus site that makes it easy to maintain OSS documentation.",
+    "icon": "/.github/images/docusaurus.svg"
   },
   {
     "example": "VuePress",
@@ -147,7 +158,8 @@
     "example": "Hexo",
     "path": "/hexo",
     "demo": "https://hexo.now-examples.now.sh",
-    "description": "A Hexo site, created with the Hexo CLI."
+    "description": "A Hexo site, created with the Hexo CLI.",
+    "icon": "/.github/images/hexo.svg"
   },
   {
     "example": "Mithril.js",
@@ -171,7 +183,8 @@
     "example": "Polymer",
     "path": "/polymer",
     "demo": "https://polymer.now-examples.now.sh",
-    "description": "A Polymer app, created with the Polymer CLI."
+    "description": "A Polymer app, created with the Polymer CLI.",
+    "icon": "/.github/images/polymer.svg"
   },
   {
     "example": "Brunch",
@@ -183,13 +196,15 @@
     "example": "Saber",
     "path": "/saber",
     "demo": "https://saber.now-examples.now.sh",
-    "description": "A Saber site, created with npm init."
+    "description": "A Saber site, created with npm init.",
+    "icon": "/.github/images/saber.svg"
   },
   {
     "example": "Eleventy",
     "path": "/eleventy",
     "demo": "https://eleventy.now-examples.now.sh",
-    "description": "An Eleventy site, created with npm init."
+    "description": "An Eleventy site, created with npm init.",
+    "icon": "/.github/images/eleventy.svg"
   },
   {
     "example": "Zola",
