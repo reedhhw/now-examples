@@ -14,8 +14,22 @@ const pusher = new Pusher({
   cluster
 });
 
-module.exports = (req, res) => {
+module.exports = async (req, res) => {
   const { x0, x1, y0, y1, color } = req.body;
-  pusher.trigger("drawing-events", "drawing", { x0, x1, y0, y1, color });
-  res.status(200).end("sent event succesfully");
+  try {
+    await new Promise((resolve, reject) => {
+      pusher.trigger(
+        "drawing-events",
+        "drawing",
+        { x0, x1, y0, y1, color },
+        err => {
+          if (err) return reject(err);
+          resolve();
+        }
+      );
+    });
+    res.status(200).end("sent event succesfully");
+  } catch (e) {
+    console.log(e.message);
+  }
 };
