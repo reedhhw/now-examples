@@ -242,19 +242,22 @@
     "example": "Middleman",
     "path": "/middleman",
     "demo": "https://middleman.now-examples.now.sh",
-    "description": "A Middleman app, created with the Middleman CLI."
+    "description": "A Middleman app, created with the Middleman CLI.",
+    "icon": "/.github/images/middleman.svg"
   },
   {
     "example": "Assemble",
     "path": "/assemble",
     "demo": "https://assemble.now-examples.now.sh",
-    "description": "An Assemble site, created from the Assemble quickstart."
+    "description": "An Assemble site, created from the Assemble quickstart.",
+    "icon": "/.github/images/assemble.svg"
   },
   {
     "example": "Ionic React",
     "path": "/ionic-react",
     "demo": "https://ionic-react.now-examples.now.sh",
-    "description": "An Ionic React site, created with the Ionic CLI"
+    "description": "An Ionic React site, created with the Ionic CLI",
+    "icon": "/.github/images/ionic-react.svg"
   },
   {
     "example": "Stencil",
