@@ -8,7 +8,7 @@ Deploy your own VuePress project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/vuepress)
 
-*Live Example: https://vuepress.now-examples.now.sh*
+_Live Example: https://vuepress.now-examples.now.sh_
 
 ### How We Created This Example
 
@@ -18,7 +18,7 @@ To get started with VuePress deployed with ZEIT Now, you can use the [Now CLI](h
 $ now init vuepress
 ```
 
-> The only change made is to add `&& mv docs/.vuepress/dist public` to the build script in the `package.json` file.
+> The only change made is to add `dest: "/public"` to the `config.js` file.
 
 ### Deploying From Your Terminal
 
