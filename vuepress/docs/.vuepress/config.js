@@ -8,5 +8,5 @@ module.exports = {
       { text: "Config Page", link: "/config" }
     ]
   },
-  dest: "/public"
+  dest: "public"
 };
