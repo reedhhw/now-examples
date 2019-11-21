@@ -3,7 +3,7 @@
     "example": "Next.js",
     "path": "/nextjs",
     "demo": "https://nextjs.now-examples.now.sh",
-    "description": "A Next.js app, backed by serverless functions.",
+    "description": "A Next.js app and a Serverless Function API.",
     "icon": "/.github/images/next.svg",
     "tagline": "Next.js makes you productive with React instantly — whether you want to build static or dynamic sites. "
   },
