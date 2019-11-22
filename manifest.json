@@ -11,7 +11,7 @@
     "example": "Gatsby",
     "path": "/gatsby-functions",
     "demo": "https://gatsby-functions.now-examples.now.sh",
-    "description": "A Gatsby app, using the default starter theme, backed by serverless functions.",
+    "description": "A Gatsby app, using the default starter theme and a Serverless Function API.",
     "icon": "/.github/images/gatsby.svg",
     "tagline": "Gatsby helps developers build blazing fast websites and apps with React."
   },
@@ -27,7 +27,7 @@
     "example": "Create-React-App",
     "path": "/create-react-app-functions",
     "demo": "https://react-functions.now-examples.now.sh",
-    "description": "A React app, bootstrapped with create-react-app, backed by serverless functions.",
+    "description": "A React app, bootstrapped with create-react-app, and a Serverless Function API.",
     "icon": "/.github/images/react.svg",
     "tagline": "Create React App allows you to get going with React in no time."
   },
@@ -35,7 +35,7 @@
     "example": "Svelte",
     "path": "/svelte-functions",
     "demo": "https://svelte-functions.now-examples.now.sh",
-    "description": "A Svelte app, using the Svelte template, backed by serverless functions.",
+    "description": "A Svelte app, using the Svelte template, and a Serverless Function API.",
     "icon": "/.github/images/svelte.svg",
     "tagline": "Svelte lets you write high performance reactive apps with significantly less boilerplate. "
   },
@@ -83,7 +83,7 @@
     "example": "Vanilla",
     "path": "/vanilla-functions",
     "demo": "https://vanilla-functions.now-examples.now.sh",
-    "description": "A vanilla site, backed by serverless function.",
+    "description": "A vanilla site and a Serverless Function API.",
     "icon": "/.github/images/vanilla.svg",
     "tagline": "Love the original way of making websites?"
   },
