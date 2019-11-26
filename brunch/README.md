@@ -4,11 +4,11 @@ This directory is a brief example of a [Brunch](https://brunch.io/) site that ca
 
 ## Deploy Your Own
 
-Deploy your own Angular project with ZEIT Now.
+Deploy your own Brunch project with ZEIT Now.
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/zeit/now-examples/tree/master/brunch)
 
-*Live Example: https://brunch.now-examples.now.sh*
+_Live Example: https://brunch.now-examples.now.sh_
 
 ### How We Created This Example
 
