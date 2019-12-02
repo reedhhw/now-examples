@@ -293,7 +293,7 @@
     "example": "Ionic React",
     "path": "/ionic-react",
     "demo": "https://ionic-react.now-examples.now.sh",
-    "description": "An Ionic React site, created with the Ionic CLI",
+    "description": "An Ionic React site, created with the Ionic CLI.",
     "icon": "/.github/images/ionic-react.svg",
     "tagline": "Ionic React allows you to build mobile PWAs with React and the Ionic Framework."
   },
@@ -301,8 +301,15 @@
     "example": "Stencil",
     "path": "/stencil",
     "demo": "https://stencil.now-examples.now.sh",
-    "description": "A Stencil site, created with the Stencil CLI",
+    "description": "A Stencil site, created with the Stencil CLI.",
     "icon": "/.github/images/stencil.svg",
     "tagline": "Stencil is a powerful toolchain for building Progressive Web Apps and Design Systems."
+  },
+  {
+    "example": "Foundation",
+    "path": "/foundation",
+    "demo": "https://foundation.now-examples.now.sh",
+    "description": "A Foundation app, created with the Foundation CLI.",
+    "tagline": "Foundation is the most advanced responsive front-end framework in the world."
   }
 ]
