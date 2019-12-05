@@ -14,15 +14,15 @@ _Live Example: https://docusaurus.now-examples.now.sh_
 
 ### How We Created This Example
 
-To get started with Docusauras for deployment with ZEIT Now, you can use the [Docusauras CLI](https://docusaurus.io/docs/en/installation) to initialize the project:
+To get started with Docusaurus for deployment with ZEIT Now, you can use the [Docusaurus CLI](https://docusaurus.io/docs/en/installation) to initialize the project:
 
 ```shell
-$ docusauras-init
+$ docusaurus-init
 ```
 
 ### Deploying From Your Terminal
 
-You can deploy your new Docusauras project with a single command from your terminal using [Now CLI](https://zeit.co/download):
+You can deploy your new Docusaurus project with a single command from your terminal using [Now CLI](https://zeit.co/download):
 
 ```shell
 $ now
