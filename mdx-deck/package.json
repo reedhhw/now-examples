@@ -8,6 +8,6 @@
     "help": "mdx-deck"
   },
   "devDependencies": {
-    "mdx-deck": "^3.0.8"
+    "mdx-deck": "^4.1.1"
   }
 }
