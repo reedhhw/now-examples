@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "mithril": "^1.1.6"
+    "mithril": "^2.0.4"
   },
   "devDependencies": {
     "webpack": "^4.36.1",
