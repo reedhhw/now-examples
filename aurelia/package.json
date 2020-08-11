@@ -54,7 +54,7 @@
     "jest-transform-stub": "^2.0.0",
     "aurelia-loader-nodejs": "^1.0.1",
     "aurelia-pal-nodejs": "^1.2.0",
-    "babel-jest": "^24.5.0"
+    "babel-jest": "^26.3.0"
   },
   "scripts": {
     "build": "au build",
