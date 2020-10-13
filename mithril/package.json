@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "webpack": "^4.36.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^4.0.0"
   },
   "scripts": {
     "start": "webpack src/index.js --output public/app.js -d --watch",
