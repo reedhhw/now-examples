@@ -5,7 +5,7 @@
     "babel-loader": "^8.0.6"
   },
   "dependencies": {
-    "react": "^16.8.6",
+    "react": "^17.0.1",
     "react-dom": "^16.8.6"
   },
   "scripts": {
