@@ -1,3 +1,3 @@
-# ZEIT Now Examples
+# Vercel Examples
 
-### All examples were moved to [zeit/now](https://github.com/zeit/now/tree/master/examples).
+### All examples were moved to [vercel/vercel](https://github.com/vercel/vercel/tree/master/examples).

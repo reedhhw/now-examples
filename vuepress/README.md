@@ -1,3 +1,3 @@
 # VuePress Example
 
-#### Example has been moved to [zeit/now](https://github.com/zeit/now/tree/master/examples/vuepress).
+#### Example has been moved to [vercel/vercel](https://github.com/vercel/vercel/tree/master/examples/vuepress).

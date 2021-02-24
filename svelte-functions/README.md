@@ -1,3 +1,3 @@
 # Svelte Example
 
-#### Example has been moved to [zeit/now](https://github.com/zeit/now/tree/master/examples/svelte).
+#### Example has been moved to [vercel/vercel](https://github.com/vercel/vercel/tree/master/examples/svelte).
